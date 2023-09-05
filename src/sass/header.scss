@@ -1,0 +1,10 @@
+.Menultem {
+  display: flex;
+  list-style-type: none;
+  gap: 3vw;
+  justify-content: center;
+  &__item {
+    border: 1px solid black;
+    padding: 1vw;
+  }
+}
